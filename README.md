@@ -1,2 +1,1 @@
-# github-fork
-Hello, i'm fauzifirdaus21. This is readme from upstream repository
+Tuliskan isi teks sesuai permintaan soal disini
